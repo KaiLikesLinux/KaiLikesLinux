@@ -1,4 +1,5 @@
 # KaiLikesLinux
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51ZRO0)
 ## Creator of Aris* / CEO of Fivnex
 ### About Me
 Developer who uses V language and Lisp. Needs to find more programming projects. I make my prototypes in JavaScirpt or Python, but using them professionally is stupid. Opinionated 17 year old. Birthday is April 30th. Follow me on [Twitter](https://twitter.com/KaiLikesLinux) or follow [Fivnex on Twitter](https://twitter.com/Fivnex). 
