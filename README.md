@@ -1,8 +1,10 @@
 # Kai
 I work on:
 - ArisAnywhere
-- Fivnex
+- Fivnex stuff
 - Dot Browser Documentation (sometimes)
+- MEML
+- UPM2
 
 I work with:
 - HTML/CSS
