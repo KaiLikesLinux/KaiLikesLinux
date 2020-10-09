@@ -5,6 +5,7 @@ I work on:
 - Dot Browser Documentation (sometimes)
 - MEML
 - UPM2
+- EMXI
 
 I work with:
 - HTML/CSS
