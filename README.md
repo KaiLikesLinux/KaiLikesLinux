@@ -33,13 +33,13 @@ I work with:
 I am learning: 
 - C++
 - How to make a compiler
+- C
 
 I want to learn:
 - Rust
 - Go
 - Crystal
 - Assembly
-- C
 - Fortran (because I can)
 
 I want to:
