@@ -14,11 +14,7 @@ I am:
 - Documentation lover
 
 I work on:
-- ArisbluBSD
-- ArisredTV
-- Fivnex stuff
-- Dot Browser Documentation (sometimes)
-- EMXI
+- Stuff
 
 I work with:
 - HTML/CSS (sometimes)
@@ -31,16 +27,17 @@ I work with:
 - Java (only for occassional MC mods)
 
 I am learning: 
-- C++
-- How to make a compiler
-- C
+- Stuff
 
 I want to learn:
 - Rust
 - Go
 - Crystal
 - Assembly
-- Fortran (because I can)
+- Fortran (because I can
+- C++
+- How to make a compiler
+- C
 
 I want to:
 - Make a Discord bot library in C
